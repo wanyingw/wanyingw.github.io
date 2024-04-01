@@ -1,6 +1,7 @@
 ## Blog Post Title From First Header
 
-#### History
+
+### Introduction 
 Origins: The origins of golf are somewhat debated, but it is believed to have originated in Scotland during the 15th century. The earliest known reference to golf dates back to 1457, when King James II of Scotland banned the game because it was interfering with military training.
 
 Early Forms: The early versions of golf were quite different from the modern game. Players would use primitive clubs to hit small balls into holes in the ground or at targets several hundred yards away. The game was played on natural terrain, such as coastal sand dunes or pasturelands.
